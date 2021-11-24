@@ -1,0 +1,63 @@
+.button{
+    background-color: rgb(182, 175, 175);
+    border: none;
+    color: pink;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: dotted;
+    display:inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: grey;
+    border: 1px solid red;
+}
+
+.link{
+    text-decoration: none;
+    color: red;
+}
+
+
+.fit {
+    max-width: 100%;
+    max-height: auto;
+  }
+
+
+.italics{
+    font-style: italic;
+}
+
+.red{
+    color:red;
+}
+
+.blueviolet{
+    color:blueviolet;
+}
+
+.green{
+    color:green;
+}
+
+.bold{
+    font-style: bold;
+}
+
+.font20{
+    font-size:20px;
+}
+
+.font48{
+    font-size:48px;
+}
+
+.background-blue {
+    background-color: rgb(243, 178, 205);
+}
